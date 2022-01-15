@@ -1,7 +1,7 @@
 [
     {
         "number": 1,
-        "name": "The Opening",
+        "name": "Pembukaan",
         "verces": [
             {
                 "content": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang."
@@ -28,7 +28,7 @@
     },
     {
         "number": 2,
-        "name": "The Cow",
+        "name": "Sapi",
         "verces": [
             {
                 "content": "Alif laam miim."
@@ -892,7 +892,7 @@
     },
     {
         "number": 3,
-        "name": "The Family of Imraan",
+        "name": "Keluarga Imran",
         "verces": [
             {
                 "content": "Alif laam miim."
@@ -1498,7 +1498,7 @@
     },
     {
         "number": 4,
-        "name": "The Women",
+        "name": "Wanita",
         "verces": [
             {
                 "content": "Hai sekalian manusia, bertakwalah kepada Tuhan-mu yang telah menciptakan kamu dari seorang diri, dan dari padanya Allah menciptakan isterinya; dan dari pada keduanya Allah memperkembang biakkan laki-laki dan perempuan yang banyak. Dan bertakwalah kepada Allah yang dengan (mempergunakan) nama-Nya kamu saling meminta satu sama lain, dan (peliharalah) hubungan silaturrahim. Sesungguhnya Allah selalu menjaga dan mengawasi kamu."
@@ -2032,7 +2032,7 @@
     },
     {
         "number": 5,
-        "name": "The Table",
+        "name": "Hidangan",
         "verces": [
             {
                 "content": "Hai orang-orang yang beriman, penuhilah aqad-aqad itu. Dihalalkan bagimu binatang ternak, kecuali yang akan dibacakan kepadamu. (Yang demikian itu) dengan tidak menghalalkan berburu ketika kamu sedang mengerjakan haji. Sesungguhnya Allah menetapkan hukum-hukum menurut yang dikehendaki-Nya."
@@ -2398,7 +2398,7 @@
     },
     {
         "number": 6,
-        "name": "The Cattle",
+        "name": "Binatang Ternak",
         "verces": [
             {
                 "content": "Segala puji bagi Allah Yang telah menciptakan langit dan bumi dan mengadakan gelap dan terang, namun orang-orang yang kafir mempersekutukan (sesuatu) dengan Tuhan mereka."
@@ -2899,7 +2899,7 @@
     },
     {
         "number": 7,
-        "name": "The Heights",
+        "name": "Tempat Tertinggi",
         "verces": [
             {
                 "content": "Alif laam mim shaad."
@@ -3523,7 +3523,7 @@
     },
     {
         "number": 8,
-        "name": "The Spoils of War",
+        "name": "Rampasan Perang",
         "verces": [
             {
                 "content": "Mereka menanyakan kepadamu tentang (pembagian) harta rampasan perang. Katakanlah: \"Harta rampasan perang kepunyaan Allah dan Rasul, oleh sebab itu bertakwalah kepada Allah dan perbaikilah perhubungan di antara sesamamu; dan taatlah kepada Allah dan Rasul-Nya jika kamu adalah orang-orang yang beriman\"."
@@ -3754,7 +3754,7 @@
     },
     {
         "number": 9,
-        "name": "The Repentance",
+        "name": "Pengampunan",
         "verces": [
             {
                 "content": "(Inilah pernyataan) pemutusan hubungan dari Allah dan Rasul-Nya (yang dihadapkan) kepada orang-orang musyrikin yang kamu (kaum muslimin) telah mengadakan perjanjian (dengan mereka)."
@@ -4147,7 +4147,7 @@
     },
     {
         "number": 10,
-        "name": "Jonas",
+        "name": "Yunus",
         "verces": [
             {
                 "content": "Alif laam raa. Inilah ayat-ayat Al Quran yang mengandung hikmah."
@@ -4855,7 +4855,7 @@
     },
     {
         "number": 12,
-        "name": "Joseph",
+        "name": "Yusuf",
         "verces": [
             {
                 "content": "Alif, laam, raa. Ini adalah ayat-ayat Kitab (Al Quran) yang nyata (dari Allah)."
@@ -5194,7 +5194,7 @@
     },
     {
         "number": 13,
-        "name": "The Thunder",
+        "name": "Guruh",
         "verces": [
             {
                 "content": "Alif laam miim raa. Ini adalah ayat-ayat Al Kitab (Al Quran). Dan Kitab yang diturunkan kepadamu daripada Tuhanmu itu adalah benar: akan tetapi kebanyakan manusia tidak beriman (kepadanya)."
@@ -5329,7 +5329,7 @@
     },
     {
         "number": 14,
-        "name": "Abraham",
+        "name": "Ibrahim",
         "verces": [
             {
                 "content": "Alif, laam raa. (Ini adalah) Kitab yang Kami turunkan kepadamu supaya kamu mengeluarkan manusia dari gelap gulita kepada cahaya terang benderang dengan izin Tuhan mereka, (yaitu) menuju jalan Tuhan Yang Maha Perkasa lagi Maha Terpuji."
@@ -5491,7 +5491,7 @@
     },
     {
         "number": 15,
-        "name": "The Rock",
+        "name": "Hijr",
         "verces": [
             {
                 "content": "Alif, laam, raa. (Surat) ini adalah (sebagian dari) ayat-ayat Al-Kitab (yang sempurna), yaitu (ayat-ayat) Al Quran yang memberi penjelasan."
@@ -5794,7 +5794,7 @@
     },
     {
         "number": 16,
-        "name": "The Bee",
+        "name": "Lebah",
         "verces": [
             {
                 "content": "Telah pasti datangnya ketetapan Allah maka janganlah kamu meminta agar disegerakan (datang)nya. Maha Suci Allah dan Maha Tinggi dari apa yang mereka persekutukan."
@@ -6184,7 +6184,7 @@
     },
     {
         "number": 17,
-        "name": "The Night Journey",
+        "name": "Memperjalankan Malam Hari",
         "verces": [
             {
                 "content": "Maha Suci Allah, yang telah memperjalankan hamba-Nya pada suatu malam dari Al Masjidil Haram ke Al Masjidil Aqsha yang telah Kami berkahi sekelilingnya agar Kami perlihatkan kepadanya sebagian dari tanda-tanda (kebesaran) Kami. Sesungguhnya Dia adalah Maha Mendengar lagi Maha Mengetahui."
@@ -6523,7 +6523,7 @@
     },
     {
         "number": 18,
-        "name": "The Cave",
+        "name": "Goa",
         "verces": [
             {
                 "content": "Segala puji bagi Allah yang telah menurunkan kepada hamba-Nya Al Kitab (Al-Quran) dan Dia tidak mengadakan kebengkokan di dalamnya;"
@@ -6859,7 +6859,7 @@
     },
     {
         "number": 19,
-        "name": "Mary",
+        "name": "Maryam",
         "verces": [
             {
                 "content": "Kaaf Haa Yaa 'Ain Shaad."
@@ -7159,7 +7159,7 @@
     },
     {
         "number": 20,
-        "name": "Taa-Haa",
+        "name": "Taha",
         "verces": [
             {
                 "content": "Thaahaa."
@@ -7570,7 +7570,7 @@
     },
     {
         "number": 21,
-        "name": "The Prophets",
+        "name": "Para Nabi",
         "verces": [
             {
                 "content": "Telah dekat kepada manusia hari menghisab segala amalan mereka, sedang mereka berada dalam kelalaian lagi berpaling (daripadanya)."
@@ -7912,7 +7912,7 @@
     },
     {
         "number": 22,
-        "name": "The Pilgrimage",
+        "name": "Haji",
         "verces": [
             {
                 "content": "Hai manusia, bertakwalah kepada Tuhanmu; sesungguhnya kegoncangan hari kiamat itu adalah suatu kejadian yang sangat besar (dahsyat)."
@@ -8152,7 +8152,7 @@
     },
     {
         "number": 23,
-        "name": "The Believers",
+        "name": "Orang-Orang Mukmin",
         "verces": [
             {
                 "content": "Sesungguhnya beruntunglah orang-orang yang beriman,"
@@ -8512,7 +8512,7 @@
     },
     {
         "number": 24,
-        "name": "The Light",
+        "name": "Cahaya",
         "verces": [
             {
                 "content": "(Ini adalah) satu surat yang Kami turunkan dan Kami wajibkan (menjalankan hukum-hukum yang ada di dalam)nya, dan Kami turunkan di dalamnya ayat ayat yang jelas, agar kamu selalu mengingatinya."
@@ -8710,7 +8710,7 @@
     },
     {
         "number": 25,
-        "name": "The Criterion",
+        "name": "Pembeda",
         "verces": [
             {
                 "content": "Maha suci Allah yang telah menurunkan Al Furqaan (Al Quran) kepada hamba-Nya, agar dia menjadi pemberi peringatan kepada seluruh alam,"
@@ -8947,7 +8947,7 @@
     },
     {
         "number": 26,
-        "name": "The Poets",
+        "name": "Para Penyair",
         "verces": [
             {
                 "content": "Thaa Siim Miim"
@@ -9634,7 +9634,7 @@
     },
     {
         "number": 27,
-        "name": "The Ant",
+        "name": "Semut-semut",
         "verces": [
             {
                 "content": "Thaa Siin (Surat) ini adalah ayat-ayat Al Quran, dan (ayat-ayat) Kitab yang menjelaskan,"
@@ -9919,7 +9919,7 @@
     },
     {
         "number": 28,
-        "name": "The Stories",
+        "name": "Kisah-Kisah",
         "verces": [
             {
                 "content": "Thaa Siin Miim"
@@ -10189,7 +10189,7 @@
     },
     {
         "number": 29,
-        "name": "The Spider",
+        "name": "Laba-Laba",
         "verces": [
             {
                 "content": "Alif laam miim"
@@ -10402,7 +10402,7 @@
     },
     {
         "number": 30,
-        "name": "The Romans",
+        "name": "Romawi",
         "verces": [
             {
                 "content": "Alif Laam Miim"
@@ -10696,7 +10696,7 @@
     },
     {
         "number": 32,
-        "name": "The Prostration",
+        "name": "Sajdah",
         "verces": [
             {
                 "content": "Alif Laam Miim"
@@ -10792,7 +10792,7 @@
     },
     {
         "number": 33,
-        "name": "The Clans",
+        "name": "Golongan Yang Bersekutu",
         "verces": [
             {
                 "content": "Hai Nabi, bertakwalah kepada Allah dan janganlah kamu menuruti (keinginan) orang-orang kafir dan orang-orang munafik. Sesungguhnya Allah adalah Maha Mengetahui lagi Maha Bijaksana,"
@@ -11017,7 +11017,7 @@
     },
     {
         "number": 34,
-        "name": "Sheba",
+        "name": "Saba'",
         "verces": [
             {
                 "content": "Segala puji bagi Allah yang memiliki apa yang di langit dan apa yang di bumi dan bagi-Nya (pula) segala puji di akhirat. Dan Dialah Yang Maha Bijaksana lagi Maha Mengetahui."
@@ -11185,7 +11185,7 @@
     },
     {
         "number": 35,
-        "name": "The Originator",
+        "name": "Maha Pencipta",
         "verces": [
             {
                 "content": "Segala puji bagi Allah Pencipta langit dan bumi, Yang menjadikan malaikat sebagai utusan-utusan (untuk mengurus berbagai macam urusan) yang mempunyai sayap, masing-masing (ada yang) dua, tiga dan empat. Allah menambahkan pada ciptaan-Nya apa yang dikehendaki-Nya. Sesungguhnya Allah Maha Kuasa atas segala sesuatu."
@@ -11326,7 +11326,7 @@
     },
     {
         "number": 36,
-        "name": "Yaseen",
+        "name": "Yasin",
         "verces": [
             {
                 "content": "Yaa siin"
@@ -11581,7 +11581,7 @@
     },
     {
         "number": 37,
-        "name": "Those drawn up in Ranks",
+        "name": "Barisan-Barisan",
         "verces": [
             {
                 "content": "Demi (rombongan) yang ber shaf-shaf dengan sebenar-benarnya],"
@@ -12133,7 +12133,7 @@
     },
     {
         "number": 38,
-        "name": "The letter Saad",
+        "name": "Sad",
         "verces": [
             {
                 "content": "Shaad, demi Al Quran yang mempunyai keagungan."
@@ -12403,7 +12403,7 @@
     },
     {
         "number": 39,
-        "name": "The Groups",
+        "name": "Rombongan",
         "verces": [
             {
                 "content": "Kitab (Al Quran ini) diturunkan oleh Allah Yang Maha Perkasa lagi Maha Bijaksana."
@@ -12634,7 +12634,7 @@
     },
     {
         "number": 40,
-        "name": "The Forgiver",
+        "name": "Maha Pengampun",
         "verces": [
             {
                 "content": "Haa Miim."
@@ -12895,7 +12895,7 @@
     },
     {
         "number": 41,
-        "name": "Explained in detail",
+        "name": "Yang Dijelaskan",
         "verces": [
             {
                 "content": "Haa Miim."
@@ -13063,7 +13063,7 @@
     },
     {
         "number": 42,
-        "name": "Consultation",
+        "name": "Musyawarah",
         "verces": [
             {
                 "content": "Haa Miim."
@@ -13228,7 +13228,7 @@
     },
     {
         "number": 43,
-        "name": "Ornaments of gold",
+        "name": "Perhiasan",
         "verces": [
             {
                 "content": "Haa Miim."
@@ -13501,7 +13501,7 @@
     },
     {
         "number": 44,
-        "name": "The Smoke",
+        "name": "Kabut",
         "verces": [
             {
                 "content": "Haa miim."
@@ -13684,7 +13684,7 @@
     },
     {
         "number": 45,
-        "name": "Crouching",
+        "name": "Berlutut",
         "verces": [
             {
                 "content": "Haa Miim"
@@ -13801,7 +13801,7 @@
     },
     {
         "number": 46,
-        "name": "The Dunes",
+        "name": "Bukit Pasir",
         "verces": [
             {
                 "content": "Haa Miim."
@@ -14032,7 +14032,7 @@
     },
     {
         "number": 48,
-        "name": "The Victory",
+        "name": "Kemenangan",
         "verces": [
             {
                 "content": "Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata,"
@@ -14125,7 +14125,7 @@
     },
     {
         "number": 49,
-        "name": "The Inner Apartments",
+        "name": "Kamar-Kamar",
         "verces": [
             {
                 "content": "Hai orang-orang yang beriman, janganlah kamu mendahului Allah dan Rasulnya dan bertakwalah kepada Allah. Sesungguhnya Allah Maha Mendengar lagi Maha Mengetahui."
@@ -14185,7 +14185,7 @@
     },
     {
         "number": 50,
-        "name": "The letter Qaaf",
+        "name": "Qaf",
         "verces": [
             {
                 "content": "Qaaf Demi Al Quran yang sangat mulia."
@@ -14326,7 +14326,7 @@
     },
     {
         "number": 51,
-        "name": "The Winnowing Winds",
+        "name": "Angin yang Menerbangkan",
         "verces": [
             {
                 "content": "Demi (angin) yang menerbangkan debu dengan kuat."
@@ -14512,7 +14512,7 @@
     },
     {
         "number": 52,
-        "name": "The Mount",
+        "name": "Bukit Tursina",
         "verces": [
             {
                 "content": "Demi bukit,"
@@ -14665,7 +14665,7 @@
     },
     {
         "number": 53,
-        "name": "The Star",
+        "name": "Bintang",
         "verces": [
             {
                 "content": "Demi bintang ketika terbenam."
@@ -14857,7 +14857,7 @@
     },
     {
         "number": 54,
-        "name": "The Moon",
+        "name": "Bulan",
         "verces": [
             {
                 "content": "Telah dekat datangnya saat itu dan telah terbelah bulan."
@@ -15028,7 +15028,7 @@
     },
     {
         "number": 55,
-        "name": "The Beneficent",
+        "name": "Maha Pengasih",
         "verces": [
             {
                 "content": "(Tuhan) Yang Maha Pemurah,"
@@ -15268,7 +15268,7 @@
     },
     {
         "number": 56,
-        "name": "The Inevitable",
+        "name": "Hari Kiamat",
         "verces": [
             {
                 "content": "Apabila terjadi hari kiamat,"
@@ -15562,7 +15562,7 @@
     },
     {
         "number": 57,
-        "name": "The Iron",
+        "name": "Besi",
         "verces": [
             {
                 "content": "Semua yang berada di langit dan yang berada di bumi bertasbih kepada Allah (menyatakan kebesaran Allah). Dan Dialah Yang Maha Perkasa lagi Maha Bijaksana."
@@ -15655,7 +15655,7 @@
     },
     {
         "number": 58,
-        "name": "The Pleading Woman",
+        "name": "Gugatan",
         "verces": [
             {
                 "content": "Sesungguhnya Allah telah mendengar perkataan wanita yang mengajukan gugatan kepada kamu tentang suaminya, dan mengadukan (halnya) kepada Allah. Dan Allah mendengar soal jawab antara kamu berdua. Sesungguhnya Allah Maha Mendengar lagi Maha Melihat."
@@ -15727,7 +15727,7 @@
     },
     {
         "number": 59,
-        "name": "The Exile",
+        "name": "Pengusiran",
         "verces": [
             {
                 "content": "Telah bertasbih kepada Allah apa yang ada di langit dan bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana."
@@ -15805,7 +15805,7 @@
     },
     {
         "number": 60,
-        "name": "She that is to be examined",
+        "name": "Wanita Yang Diuji",
         "verces": [
             {
                 "content": "Hai orang-orang yang beriman, janganlah kamu mengambil musuh-Ku dan musuhmu menjadi teman-teman setia yang kamu sampaikan kepada mereka (berita-berita Muhammad), karena rasa kasih sayang; padahal sesungguhnya mereka telah ingkar kepada kebenaran yang datang kepadamu, mereka mengusir Rasul dan (mengusir) kamu karena kamu beriman kepada Allah, Tuhanmu. Jika kamu benar-benar keluar untuk berjihad di jalan-Ku dan mencari keridhaan-Ku (janganlah kamu berbuat demikian). Kamu memberitahukan secara rahasia (berita-berita Muhammad) kepada mereka, karena rasa kasih sayang. Aku lebih mengetahui apa yang kamu sembunyikan dan apa yang kamu nyatakan. Dan barangsiapa di antara kamu yang melakukannya, maka sesungguhnya dia telah tersesat dari jalan yang lurus."
@@ -15850,7 +15850,7 @@
     },
     {
         "number": 61,
-        "name": "The Ranks",
+        "name": "Barisan",
         "verces": [
             {
                 "content": "Telah bertasbih kepada Allah apa saja yang ada di langit dan apa saja yang ada di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana."
@@ -15898,7 +15898,7 @@
     },
     {
         "number": 62,
-        "name": "Friday",
+        "name": "Jumat",
         "verces": [
             {
                 "content": "Senantiasa bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi. Raja, Yang Maha Suci, Yang Maha Perkasa lagi Maha Bijaksana."
@@ -15937,7 +15937,7 @@
     },
     {
         "number": 63,
-        "name": "The Hypocrites",
+        "name": "Orang-Orang Munafik",
         "verces": [
             {
                 "content": "Apabila orang-orang munafik datang kepadamu, mereka berkata: \"Kami mengakui, bahwa sesungguhnya kamu benar-benar Rasul Allah\". Dan Allah mengetahui bahwa sesungguhnya kamu benar-benar Rasul-Nya; dan Allah mengetahui bahwa sesungguhnya orang-orang munafik itu benar-benar orang pendusta."
@@ -15976,7 +15976,7 @@
     },
     {
         "number": 64,
-        "name": "Mutual Disillusion",
+        "name": "Pengungkapan Kesalahan",
         "verces": [
             {
                 "content": "Bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi; hanya Allah lah yang mempunyai semua kerajaan dan semua pujian, dan Dia Maha Kuasa atas segala sesuatu."
@@ -16036,7 +16036,7 @@
     },
     {
         "number": 65,
-        "name": "Divorce",
+        "name": "Talak",
         "verces": [
             {
                 "content": "Hai Nabi, apabila kamu menceraikan isteri-isterimu maka hendaklah kamu ceraikan mereka pada waktu mereka dapat (menghadapi) iddahnya (yang wajar) dan hitunglah waktu iddah itu serta bertakwalah kepada Allah Tuhanmu. Janganlah kamu keluarkan mereka dari rumah mereka dan janganlah mereka (diizinkan) ke luar kecuali mereka mengerjakan perbuatan keji yang terang. Itulah hukum-hukum Allah dan barangsiapa yang melanggar hukum-hukum Allah, maka sesungguhnya dia telah berbuat zalim terhadap dirinya sendiri. Kamu tidak mengetahui barangkali Allah mengadakan sesudah itu sesuatu hal yang baru."
@@ -16078,7 +16078,7 @@
     },
     {
         "number": 66,
-        "name": "The Prohibition",
+        "name": "Pengharaman",
         "verces": [
             {
                 "content": "Hai Nabi, mengapa kamu mengharamkan apa yang Allah halalkan bagimu; kamu mencari kesenangan hati isteri-isterimu? Dan Allah Maha Pengampun lagi Maha Penyayang"
@@ -16120,7 +16120,7 @@
     },
     {
         "number": 67,
-        "name": "The Sovereignty",
+        "name": "Kerajaan",
         "verces": [
             {
                 "content": "Maha Suci Allah Yang di tangan-Nya-lah segala kerajaan, dan Dia Maha Kuasa atas segala sesuatu,"
@@ -16216,7 +16216,7 @@
     },
     {
         "number": 68,
-        "name": "The Pen",
+        "name": "Pena",
         "verces": [
             {
                 "content": "Nun, demi kalam dan apa yang mereka tulis,"
@@ -16378,7 +16378,7 @@
     },
     {
         "number": 69,
-        "name": "The Reality",
+        "name": "Hari Kiamat",
         "verces": [
             {
                 "content": "Hari kiamat,"
@@ -16540,7 +16540,7 @@
     },
     {
         "number": 70,
-        "name": "The Ascending Stairways",
+        "name": "Tempat Naik",
         "verces": [
             {
                 "content": "Seseorang telah meminta kedatangan azab yang akan menimpa,"
@@ -16678,7 +16678,7 @@
     },
     {
         "number": 71,
-        "name": "Noah",
+        "name": "Nuh",
         "verces": [
             {
                 "content": "Sesungguhnya Kami telah mengutus Nuh kepada kaumnya (dengan memerintahkan): \"Berilah kaummu peringatan sebelum datang kepadanya azab yang pedih\","
@@ -16768,7 +16768,7 @@
     },
     {
         "number": 72,
-        "name": "The Jinn",
+        "name": "Jin",
         "verces": [
             {
                 "content": "Katakanlah (hai Muhammad): \"Telah diwahyukan kepadamu bahwasanya: telah mendengarkan sekumpulan jin (akan Al Quran), lalu mereka berkata: Sesungguhnya kami telah mendengarkan Al Quran yang menakjubkan,"
@@ -16858,7 +16858,7 @@
     },
     {
         "number": 73,
-        "name": "The Enshrouded One",
+        "name": "Orang Yang Berselimut",
         "verces": [
             {
                 "content": "Hai orang yang berselimut (Muhammad),"
@@ -16924,7 +16924,7 @@
     },
     {
         "number": 74,
-        "name": "The Cloaked One",
+        "name": "Orang Yang Berkemul",
         "verces": [
             {
                 "content": "Hai orang yang berkemul (berselimut),"
@@ -17098,7 +17098,7 @@
     },
     {
         "number": 75,
-        "name": "The Resurrection",
+        "name": "Hari Kiamat",
         "verces": [
             {
                 "content": "Aku bersumpah demi hari kiamat,"
@@ -17224,7 +17224,7 @@
     },
     {
         "number": 76,
-        "name": "Man",
+        "name": "Manusia",
         "verces": [
             {
                 "content": "Bukankah telah datang atas manusia satu waktu dari masa, sedang dia ketika itu belum merupakan sesuatu yang dapat disebut?"
@@ -17323,7 +17323,7 @@
     },
     {
         "number": 77,
-        "name": "The Emissaries",
+        "name": "Malaikat Yang Diutus",
         "verces": [
             {
                 "content": "Demi malaikat-malaikat yang diutus untuk membawa kebaikan,"
@@ -17479,7 +17479,7 @@
     },
     {
         "number": 78,
-        "name": "The Announcement",
+        "name": "Berita Besar",
         "verces": [
             {
                 "content": "Tentang apakah mereka saling bertanya-tanya?"
@@ -17605,7 +17605,7 @@
     },
     {
         "number": 79,
-        "name": "Those who drag forth",
+        "name": "Malaikat Yang Mencabut",
         "verces": [
             {
                 "content": "Demi (malaikat-malaikat) yang mencabut (nyawa) dengan keras,"
@@ -17749,7 +17749,7 @@
     },
     {
         "number": 80,
-        "name": "He frowned",
+        "name": "Bermuka Masam",
         "verces": [
             {
                 "content": "Dia (Muhammad) bermuka masam dan berpaling,"
@@ -17881,7 +17881,7 @@
     },
     {
         "number": 81,
-        "name": "The Overthrowing",
+        "name": "Penggulungan",
         "verces": [
             {
                 "content": "Apabila matahari digulung,"
@@ -17974,7 +17974,7 @@
     },
     {
         "number": 82,
-        "name": "The Cleaving",
+        "name": "Terbelah",
         "verces": [
             {
                 "content": "Apabila langit terbelah,"
@@ -18037,7 +18037,7 @@
     },
     {
         "number": 83,
-        "name": "Defrauding",
+        "name": "Orang-Orang Curang",
         "verces": [
             {
                 "content": "Kecelakaan besarlah bagi orang-orang yang curang"
@@ -18151,7 +18151,7 @@
     },
     {
         "number": 84,
-        "name": "The Splitting Open",
+        "name": "Terbelah",
         "verces": [
             {
                 "content": "Apabila langit terbelah,"
@@ -18232,7 +18232,7 @@
     },
     {
         "number": 85,
-        "name": "The Constellations",
+        "name": "Gugusan Bintang",
         "verces": [
             {
                 "content": "Demi langit yang mempunyai gugusan bintang,"
@@ -18304,7 +18304,7 @@
     },
     {
         "number": 86,
-        "name": "The Morning Star",
+        "name": "Yang Datang Di Malam Hari",
         "verces": [
             {
                 "content": "Demi langit dan yang datang pada malam hari,"
@@ -18361,7 +18361,7 @@
     },
     {
         "number": 87,
-        "name": "The Most High",
+        "name": "Maha Tinggi",
         "verces": [
             {
                 "content": "Sucikanlah nama Tuhanmu Yang Maha Tingi,"
@@ -18424,7 +18424,7 @@
     },
     {
         "number": 88,
-        "name": "The Overwhelming",
+        "name": "Hari Kiamat",
         "verces": [
             {
                 "content": "Sudah datangkah kepadamu berita (tentang) hari pembalasan?"
@@ -18508,7 +18508,7 @@
     },
     {
         "number": 89,
-        "name": "The Dawn",
+        "name": "Fajar",
         "verces": [
             {
                 "content": "Demi fajar,"
@@ -18604,7 +18604,7 @@
     },
     {
         "number": 90,
-        "name": "The City",
+        "name": "Negeri",
         "verces": [
             {
                 "content": "Aku benar-benar bersumpah dengan kota ini (Mekah),"
@@ -18670,7 +18670,7 @@
     },
     {
         "number": 91,
-        "name": "The Sun",
+        "name": "Matahari",
         "verces": [
             {
                 "content": "Demi matahari dan cahayanya di pagi hari,"
@@ -18721,7 +18721,7 @@
     },
     {
         "number": 92,
-        "name": "The Night",
+        "name": "Malam",
         "verces": [
             {
                 "content": "Demi malam apabila menutupi (cahaya siang),"
@@ -18790,7 +18790,7 @@
     },
     {
         "number": 93,
-        "name": "The Morning Hours",
+        "name": "Duha",
         "verces": [
             {
                 "content": "Demi waktu matahari sepenggalahan naik,"
@@ -18829,7 +18829,7 @@
     },
     {
         "number": 94,
-        "name": "The Consolation",
+        "name": "Lapang",
         "verces": [
             {
                 "content": "Bukankah Kami telah melapangkan untukmu dadamu?,"
@@ -18859,7 +18859,7 @@
     },
     {
         "number": 95,
-        "name": "The Fig",
+        "name": "Buah Tin",
         "verces": [
             {
                 "content": "Demi (buah) Tin dan (buah) Zaitun,"
@@ -18889,7 +18889,7 @@
     },
     {
         "number": 96,
-        "name": "The Clot",
+        "name": "Segumpal Darah",
         "verces": [
             {
                 "content": "Bacalah dengan (menyebut) nama Tuhanmu Yang menciptakan,"
@@ -18952,7 +18952,7 @@
     },
     {
         "number": 97,
-        "name": "The Power, Fate",
+        "name": "Kemuliaan",
         "verces": [
             {
                 "content": "Sesungguhnya Kami telah menurunkannya (Al Quran) pada malam kemuliaan."
@@ -18973,7 +18973,7 @@
     },
     {
         "number": 98,
-        "name": "The Evidence",
+        "name": "Bukti Nyata",
         "verces": [
             {
                 "content": "Orang-orang kafir yakni ahli Kitab dan orang-orang musyrik (mengatakan bahwa mereka) tidak akan meninggalkan (agamanya) sebelum datang kepada mereka bukti yang nyata,"
@@ -19003,7 +19003,7 @@
     },
     {
         "number": 99,
-        "name": "The Earthquake",
+        "name": "Guncangan",
         "verces": [
             {
                 "content": "Apabila bumi digoncangkan dengan goncangan (yang dahsyat),"
@@ -19033,7 +19033,7 @@
     },
     {
         "number": 100,
-        "name": "The Chargers",
+        "name": "Kuda Yang Berlari Kencang",
         "verces": [
             {
                 "content": "Demi kuda perang yang berlari kencang dengan terengah-engah,"
@@ -19072,7 +19072,7 @@
     },
     {
         "number": 101,
-        "name": "The Calamity",
+        "name": "Hari Kiamat",
         "verces": [
             {
                 "content": "Hari Kiamat,"
@@ -19111,7 +19111,7 @@
     },
     {
         "number": 102,
-        "name": "Competition",
+        "name": "Bermegah-Megahan",
         "verces": [
             {
                 "content": "Bermegah-megahan telah melalaikan kamu,"
@@ -19141,7 +19141,7 @@
     },
     {
         "number": 103,
-        "name": "The Declining Day, Epoch",
+        "name": "Asar",
         "verces": [
             {
                 "content": "Demi masa."
@@ -19156,7 +19156,7 @@
     },
     {
         "number": 104,
-        "name": "The Traducer",
+        "name": "Pengumpat",
         "verces": [
             {
                 "content": "Kecelakaanlah bagi setiap pengumpat lagi pencela,"
@@ -19189,7 +19189,7 @@
     },
     {
         "number": 105,
-        "name": "The Elephant",
+        "name": "Gajah",
         "verces": [
             {
                 "content": "Apakah kamu tidak memperhatikan bagaimana Tuhanmu telah bertindak terhadap tentara bergajah?"
@@ -19210,7 +19210,7 @@
     },
     {
         "number": 106,
-        "name": "Quraysh",
+        "name": "Quraisy",
         "verces": [
             {
                 "content": "Karena kebiasaan orang-orang Quraisy,"
@@ -19228,7 +19228,7 @@
     },
     {
         "number": 107,
-        "name": "Almsgiving",
+        "name": "Barang Yang Berguna",
         "verces": [
             {
                 "content": "Tahukah kamu (orang) yang mendustakan agama?"
@@ -19255,7 +19255,7 @@
     },
     {
         "number": 108,
-        "name": "Abundance",
+        "name": "Pemberian Yang Banyak",
         "verces": [
             {
                 "content": "Sesungguhnya Kami telah memberikan kepadamu nikmat yang banyak."
@@ -19270,7 +19270,7 @@
     },
     {
         "number": 109,
-        "name": "The Disbelievers",
+        "name": "Orang-Orang kafir",
         "verces": [
             {
                 "content": "Katakanlah: \"Hai orang-orang kafir,"
@@ -19294,7 +19294,7 @@
     },
     {
         "number": 110,
-        "name": "Divine Support",
+        "name": "Pertolongan",
         "verces": [
             {
                 "content": "Apabila telah datang pertolongan Allah dan kemenangan,"
@@ -19309,7 +19309,7 @@
     },
     {
         "number": 111,
-        "name": "The Palm Fibre",
+        "name": "Api Yang Bergejolak",
         "verces": [
             {
                 "content": "Binasalah kedua tangan Abu Lahab dan sesungguhnya dia akan binasa."
@@ -19330,7 +19330,7 @@
     },
     {
         "number": 112,
-        "name": "Sincerity",
+        "name": "Ikhlas",
         "verces": [
             {
                 "content": "Katakanlah: \"Dialah Allah, Yang Maha Esa."
@@ -19348,7 +19348,7 @@
     },
     {
         "number": 113,
-        "name": "The Dawn",
+        "name": "Subuh",
         "verces": [
             {
                 "content": "Katakanlah: \"Aku berlindung kepada Tuhan Yang Menguasai subuh,"
@@ -19369,7 +19369,7 @@
     },
     {
         "number": 114,
-        "name": "Mankind",
+        "name": "Manusia",
         "verces": [
             {
                 "content": "Katakanlah: \"Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia."
