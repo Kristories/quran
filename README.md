@@ -17,7 +17,7 @@ The Quran has never changed and never will, because Allah protecting it. ```(15:
 
 | Language | Edition | Identifier | Type | Status |
 |---|---|---|---|---|
-| Albanian | Feti Mehdiu | `sq.mehdiu` | Translation | [![Chapter](https://img.shields.io/badge/Chapter-0%25-red?style=flat-square)](#) [![Verses](https://img.shields.io/badge/Verses-0%25-red?style=flat-square)](#) |
+| Albanian | Feti Mehdiu | `sq.mehdiu` | Translation | [![Chapter](https://img.shields.io/badge/Chapter-0%25-red?style=flat-square)](#) [![Verses](https://img.shields.io/badge/Verses-100%25-brightgreen?style=flat-square)](#) |
 | Albanian | Hasan Efendi Nahi / Efendi Nahi | `sq.nahi` | Translation | [![Chapter](https://img.shields.io/badge/Chapter-0%25-red?style=flat-square)](#) [![Verses](https://img.shields.io/badge/Verses-0%25-red?style=flat-square)](#) |
 | Albanian | Sherif Ahmeti | `sq.ahmeti` | Translation | [![Chapter](https://img.shields.io/badge/Chapter-0%25-red?style=flat-square)](#) [![Verses](https://img.shields.io/badge/Verses-0%25-red?style=flat-square)](#) |
 | Arabic | King Fahad Quran Complex / تفسير المیسر | `ar.muyassar` | Tafsir | [![Chapter](https://img.shields.io/badge/Chapter-0%25-red?style=flat-square)](#) [![Verses](https://img.shields.io/badge/Verses-0%25-red?style=flat-square)](#) |
