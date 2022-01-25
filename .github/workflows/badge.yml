@@ -1,0 +1,19 @@
+name: Badge Generator
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  generator:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run geneator
+        run: ./badges/generate.sh 
+
+      - uses: EndBug/add-and-commit@v8
+        with:
+          message: 'Generate badges'
