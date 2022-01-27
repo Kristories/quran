@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "Chapters",
-  "message": "0%",
-  "color": "red"
+  "message": "100%",
+  "color": "brightgreen"
 }
