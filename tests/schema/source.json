@@ -14,6 +14,7 @@
             },
             "verses":{
                 "type": "array",
+                "uniqueItems": true,
                 "items": {
                     "type": "object",
                     "properties": {
