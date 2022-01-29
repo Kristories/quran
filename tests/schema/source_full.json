@@ -1,0 +1,43 @@
+{
+    "type": "array",
+    "uniqueItems": true,
+    "minItems": 114,
+    "maxItems": 114,
+    "items": {
+        "type": "object",
+        "properties": {
+            "number": {
+                "type": "integer"
+            },
+            "name": {
+                "type": "string"
+            },
+            "transliteration": {
+                "type": "string"
+            },
+            "translation": {
+                "type": ["string", "null"]
+            },
+            "verses":{
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "number": {
+                            "type": "integer"
+                        },
+                        "section": {
+                            "type": "integer"
+                        },
+                        "content": {
+                            "type": "string"
+                        },
+                        "translation": {
+                            "type": ["string", "null"]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
