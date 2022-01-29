@@ -129,9 +129,13 @@ The Quran has never changed and never will, because Allah protecting it. ```(15:
 
   > A juzʼ (Arabic: جُزْءْ, plural: أَجْزَاءْ ajzāʼ,[1] literally meaning "part") is one of thirty parts of varying lengths into which the Quran is divided.
 
+## Disclaimer
+
+No translation of Quran can be a 100% accurate, nor it can be used as a replacement of the Quran text. We have tried to provide a set of mostly acceptable quran translations here, but we cannot guarantee their authenticity and/or accuracy. Please use them at your own discretion.
+
 ## Credits
 
 - [Wahyu Kristianto](https://github.com/kristories)
 - [Islamic Network](https://islamic.network) (Initial data source)
-- [Tanzil](https://tanzil.net) (Initial data source)
+- [Tanzil](http://tanzil.net/trans) (Initial data source)
 - [All Contributors](https://github.com/Kristories/quran/graphs/contributors)
