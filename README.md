@@ -1,4 +1,4 @@
-# QURAN
+# QURAN [![Validation](https://github.com/Kristories/quran/actions/workflows/validation.yml/badge.svg)](https://github.com/Kristories/quran/actions/workflows/validation.yml)
 
 بِسْمِ ٱللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 
