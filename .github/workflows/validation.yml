@@ -1,0 +1,21 @@
+name: Validation
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Source schema validator
+        uses: nhalstead/validate-json-action@0.1.3
+        with:
+          schema: ./tests/schema/source.json
+          jsons: ./fixtures/*/*/source.json
+      - name: Source full schema validator
+        uses: nhalstead/validate-json-action@0.1.3
+        with:
+          schema: ./tests/schema/source_full.json
+          jsons: ./fixtures/*/*/source_full.json
