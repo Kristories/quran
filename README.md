@@ -6,6 +6,12 @@ This repository is intended for **transliteration**, **translation**, **edition*
 
 The Quran has never changed and never will, because Allah protecting it. ```(15:9) إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ```.
 
+---
+
+> **Now More Than Ever, Children Need Your Help to Survive and Thrive**
+> - [State of Palestine Appeal, UNICEF’s Humanitarian Action for Children](https://www.unicef.org/appeals/state-of-palestine)
+> - [Islamic Relief USA](https://irusa.org/middle-east/palestine)
+
 ## Formats
 
 | Stand-alone | Full |
